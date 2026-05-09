@@ -1,0 +1,9 @@
+﻿DepartmentID,DepartmentName,Division
+D001,Sales,Commercial
+D002,Marketing,Commercial
+D003,Finance,Corporate
+D004,HR,Corporate
+D005,IT,Corporate
+D006,Operations,Operations
+D007,Warehouse,Operations
+D008,Customer Service,Operations

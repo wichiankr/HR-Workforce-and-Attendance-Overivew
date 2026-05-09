@@ -1,0 +1,181 @@
+﻿EmployeeID,EmployeeName,Gender,Age,DepartmentID,DepartmentName,Position,EmployeeType,Location,HireDate,TerminationDate,MonthlySalary
+E0001,Somchai Kraubut,Male,35,D006,Operations,Operations Officer,Full-time,Warehouse,2022-02-21,2026-03-09,35800
+E0002,Taro Kraubut,Female,23,D001,Sales,Area Manager,Full-time,Head Office,2023-04-22,,28600
+E0003,Kanya Nakornchai,Male,32,D007,Warehouse,Inventory Controller,Full-time,Head Office,2022-11-23,,28800
+E0004,An Sato,Male,21,D007,Warehouse,Inventory Controller,Full-time,Head Office,2026-02-03,,22500
+E0005,Narumon Nakornchai,Female,40,D006,Operations,Operations Supervisor,Part-time,Warehouse,2025-12-13,,33400
+E0006,Saran Chaiyaphum,Female,31,D005,IT,System Analyst,Full-time,Branch,2024-01-18,2026-10-13,55400
+E0007,Somchai Chaiyaphum,Male,46,D001,Sales,Area Manager,Full-time,Head Office,2024-02-17,,32300
+E0008,Narumon Tran,Male,34,D007,Warehouse,Warehouse Supervisor,Contract,Head Office,2023-10-09,,29900
+E0009,Chaiwat Saengdao,Female,34,D001,Sales,Area Manager,Full-time,Warehouse,2022-10-13,,23900
+E0010,Arisa Tran,Female,37,D006,Operations,Operations Officer,Full-time,Branch,2022-07-06,2026-01-26,28800
+E0011,Narin Nguyen,Female,33,D006,Operations,Operations Manager,Full-time,Branch,2025-02-07,,28800
+E0012,Sakura Suwannarat,Male,48,D001,Sales,Area Manager,Contract,Warehouse,2022-01-07,,30800
+E0013,Narin Chaiyaphum,Female,27,D001,Sales,Sales Representative,Contract,Warehouse,2022-11-27,,28100
+E0014,Malinee Kittipong,Female,42,D001,Sales,Sales Representative,Part-time,Branch,2025-03-07,2026-10-04,37200
+E0015,Hana Sato,Male,52,D002,Marketing,Brand Manager,Full-time,Branch,2025-05-27,,33700
+E0016,Anan Wongsa,Male,39,D004,HR,Recruiter,Full-time,Branch,2024-11-25,,42100
+E0017,Piyawat Saengdao,Female,36,D007,Warehouse,Inventory Controller,Full-time,Head Office,2022-05-01,,26500
+E0018,Patchara Nguyen,Male,35,D007,Warehouse,Inventory Controller,Full-time,Head Office,2025-03-15,,32400
+E0019,Krit Chaiyaphum,Female,24,D005,IT,IT Support,Full-time,Branch,2026-02-02,,21900
+E0020,Linh Intaraprasert,Male,38,D001,Sales,Sales Supervisor,Full-time,Warehouse,2025-01-03,,36500
+E0021,Narumon Srisuk,Female,52,D001,Sales,Sales Representative,Full-time,Branch,2025-01-12,,29700
+E0022,Taro Pham,Male,33,D001,Sales,Sales Supervisor,Full-time,Branch,2022-01-05,,45600
+E0023,Wanwisa Kittipong,Female,45,D001,Sales,Area Manager,Full-time,Head Office,2023-08-31,2026-05-04,31100
+E0024,Chaiwat Srisuk,Female,36,D001,Sales,Sales Representative,Full-time,Head Office,2024-11-06,2026-08-07,30800
+E0025,Narin Tran,Male,39,D006,Operations,Operations Manager,Full-time,Head Office,2024-05-08,2026-10-23,30100
+E0026,Thanakorn Saengdao,Female,46,D002,Marketing,Brand Manager,Part-time,Head Office,2026-03-20,,38600
+E0027,Sakura Kraubut,Female,31,D008,Customer Service,CRM Officer,Full-time,Branch,2022-05-21,,30600
+E0028,Nattapong Nakornchai,Male,38,D006,Operations,Operations Officer,Full-time,Warehouse,2025-02-09,,30600
+E0029,Somchai Wongsa,Male,38,D002,Marketing,Content Specialist,Full-time,Head Office,2023-03-08,,49300
+E0030,Mika Nguyen,Female,48,D006,Operations,Operations Manager,Part-time,Head Office,2023-07-21,,32200
+E0031,Nattapong Nguyen,Female,46,D006,Operations,Operations Officer,Full-time,Warehouse,2022-08-18,,28300
+E0032,Krit Sato,Male,46,D001,Sales,Sales Representative,Contract,Head Office,2023-09-24,,25300
+E0033,Anan Kittipong,Female,40,D007,Warehouse,Warehouse Staff,Part-time,Warehouse,2024-04-12,,24100
+E0034,Linh Pham,Male,40,D007,Warehouse,Warehouse Staff,Full-time,Warehouse,2023-11-12,2025-02-09,15100
+E0035,Thanakorn Wongsa,Male,30,D001,Sales,Sales Representative,Full-time,Branch,2024-07-31,,45100
+E0036,Thanakorn Kittipong,Male,29,D008,Customer Service,CRM Officer,Full-time,Head Office,2023-07-26,,23100
+E0037,Krit Suzuki,Female,41,D006,Operations,Operations Manager,Full-time,Branch,2023-06-28,,36700
+E0038,Yuki Suwannarat,Male,43,D008,Customer Service,CRM Officer,Contract,Branch,2023-01-25,,29800
+E0039,Patchara Tanaka,Male,26,D003,Finance,Accountant,Full-time,Head Office,2022-05-24,,32400
+E0040,Narin Suzuki,Female,39,D004,HR,Recruiter,Full-time,Warehouse,2023-08-29,,49500
+E0041,Hana Suwannarat,Male,33,D006,Operations,Operations Manager,Full-time,Head Office,2022-01-01,,39200
+E0042,Kenji Chaiyaphum,Female,31,D006,Operations,Operations Manager,Full-time,Head Office,2026-02-16,,27100
+E0043,An Suwannarat,Female,36,D006,Operations,Operations Supervisor,Full-time,Branch,2023-04-06,,33700
+E0044,Krit Nguyen,Male,31,D007,Warehouse,Warehouse Supervisor,Full-time,Branch,2024-02-26,,27900
+E0045,Malinee Tanaka,Male,40,D001,Sales,Sales Representative,Full-time,Warehouse,2025-11-26,,34700
+E0046,Chaiwat Nakornchai,Male,39,D008,Customer Service,Customer Service Agent,Full-time,Branch,2024-06-25,,21200
+E0047,An Wongsa,Male,30,D007,Warehouse,Warehouse Staff,Full-time,Head Office,2024-12-03,,22700
+E0048,Somchai Suwannarat,Male,30,D001,Sales,Sales Representative,Full-time,Head Office,2023-04-19,,22300
+E0049,Narumon Nguyen,Female,43,D007,Warehouse,Inventory Controller,Full-time,Warehouse,2024-03-08,,18300
+E0050,Narumon Kittipong,Female,28,D006,Operations,Operations Supervisor,Full-time,Head Office,2026-02-13,,32400
+E0051,Saran Srisuk,Female,43,D007,Warehouse,Warehouse Supervisor,Full-time,Branch,2022-09-19,2026-04-18,21700
+E0052,Minh Wongsa,Female,28,D002,Marketing,Content Specialist,Full-time,Warehouse,2023-11-02,,40100
+E0053,Anan Chaiyaphum,Female,42,D005,IT,IT Manager,Full-time,Warehouse,2026-03-15,,49900
+E0054,Kenji Sato,Female,35,D001,Sales,Sales Representative,Full-time,Head Office,2022-02-11,,41200
+E0055,Hana Suzuki,Female,35,D001,Sales,Sales Supervisor,Full-time,Head Office,2025-05-28,,28700
+E0056,Hana Intaraprasert,Female,45,D003,Finance,Finance Manager,Full-time,Branch,2026-01-04,,48500
+E0057,Minh Pham,Female,30,D007,Warehouse,Inventory Controller,Full-time,Branch,2025-03-05,2026-08-07,30900
+E0058,Mai Pham,Male,32,D001,Sales,Area Manager,Full-time,Branch,2024-01-12,,25500
+E0059,Benjaporn Suzuki,Male,32,D005,IT,IT Support,Full-time,Branch,2026-02-06,,57400
+E0060,Thanakorn Kraubut,Male,37,D003,Finance,Finance Officer,Full-time,Warehouse,2024-10-09,,47800
+E0061,Pimchanok Tran,Female,35,D006,Operations,Operations Manager,Full-time,Branch,2023-01-27,,39100
+E0062,Kanya Nguyen,Male,37,D007,Warehouse,Inventory Controller,Full-time,Head Office,2022-07-10,,34600
+E0063,Krit Kittipong,Male,29,D008,Customer Service,Customer Service Supervisor,Full-time,Head Office,2025-02-01,,33400
+E0064,Narin Chaiyaphum,Male,33,D001,Sales,Area Manager,Full-time,Warehouse,2026-02-21,,42500
+E0065,Nattapong Pham,Female,33,D003,Finance,Accountant,Part-time,Branch,2023-09-12,,37300
+E0066,Krit Wongsa,Male,26,D001,Sales,Sales Representative,Part-time,Head Office,2022-01-26,,34400
+E0067,Patchara Chaiyaphum,Female,43,D004,HR,Recruiter,Full-time,Head Office,2022-06-01,,50400
+E0068,Arisa Intaraprasert,Male,40,D007,Warehouse,Warehouse Supervisor,Part-time,Head Office,2024-02-19,,23300
+E0069,Mika Pham,Female,34,D008,Customer Service,Customer Service Agent,Full-time,Head Office,2023-03-02,2026-04-07,30500
+E0070,Taro Suwannarat,Male,31,D002,Marketing,Content Specialist,Full-time,Head Office,2023-04-20,,25400
+E0071,Yuki Boonmee,Female,24,D004,HR,HR Officer,Full-time,Head Office,2025-01-20,,23300
+E0072,An Nguyen,Male,29,D004,HR,HR Manager,Full-time,Branch,2024-08-17,,18900
+E0073,Kenji Nakornchai,Male,40,D007,Warehouse,Warehouse Supervisor,Full-time,Branch,2025-05-21,,26600
+E0074,Pimchanok Wongsa,Female,23,D006,Operations,Operations Supervisor,Full-time,Branch,2026-03-29,,33800
+E0075,Narumon Srisuk,Male,33,D005,IT,IT Support,Full-time,Branch,2024-04-16,,54600
+E0076,Sudarat Nguyen,Male,25,D005,IT,System Analyst,Contract,Warehouse,2023-10-07,2026-07-10,76100
+E0077,Mai Boonmee,Male,28,D001,Sales,Sales Supervisor,Full-time,Head Office,2024-11-27,,27000
+E0078,Anan Nguyen,Male,50,D004,HR,HR Manager,Full-time,Branch,2025-12-01,,53500
+E0079,Thanakorn Nguyen,Male,45,D001,Sales,Sales Representative,Full-time,Branch,2022-08-21,,29500
+E0080,Linh Wongsa,Female,30,D007,Warehouse,Warehouse Staff,Contract,Branch,2024-08-25,,26800
+E0081,Hana Pham,Male,43,D002,Marketing,Marketing Executive,Full-time,Head Office,2024-04-29,,34000
+E0082,Mika Chaiyaphum,Male,29,D007,Warehouse,Warehouse Supervisor,Full-time,Warehouse,2024-07-03,,31900
+E0083,Taro Saengdao,Male,47,D006,Operations,Operations Manager,Contract,Head Office,2023-04-24,,35100
+E0084,Sudarat Kraubut,Female,24,D006,Operations,Operations Officer,Contract,Branch,2022-03-17,,31800
+E0085,Linh Tanaka,Female,47,D007,Warehouse,Inventory Controller,Full-time,Branch,2024-04-19,,30500
+E0086,Hana Boonmee,Male,45,D007,Warehouse,Inventory Controller,Contract,Head Office,2024-12-28,2026-10-09,23700
+E0087,Narin Kraubut,Female,31,D008,Customer Service,CRM Officer,Full-time,Head Office,2026-03-10,,29100
+E0088,Saran Kittipong,Male,29,D001,Sales,Sales Representative,Full-time,Branch,2022-04-25,,38900
+E0089,Anan Tran,Female,24,D001,Sales,Sales Representative,Full-time,Head Office,2024-02-23,,33100
+E0090,Sudarat Boonmee,Female,52,D008,Customer Service,CRM Officer,Full-time,Warehouse,2025-10-19,,34600
+E0091,Minh Suzuki,Male,41,D001,Sales,Sales Supervisor,Full-time,Warehouse,2024-02-27,,37400
+E0092,Chaiwat Suwannarat,Female,46,D002,Marketing,Content Specialist,Full-time,Head Office,2025-03-05,,30600
+E0093,Yuki Saengdao,Female,23,D006,Operations,Operations Manager,Full-time,Warehouse,2025-10-20,2026-07-23,21000
+E0094,Wanwisa Nakornchai,Male,34,D001,Sales,Sales Representative,Full-time,Warehouse,2023-08-28,,28400
+E0095,Linh Suzuki,Male,41,D007,Warehouse,Inventory Controller,Full-time,Branch,2023-06-11,2025-08-20,25000
+E0096,Hana Nakornchai,Male,41,D008,Customer Service,Customer Service Supervisor,Full-time,Branch,2025-02-15,,31300
+E0097,Arisa Chaiyaphum,Male,39,D006,Operations,Operations Officer,Full-time,Warehouse,2025-07-31,,35200
+E0098,Krit Intaraprasert,Male,40,D006,Operations,Operations Supervisor,Full-time,Head Office,2025-07-25,2026-07-02,28700
+E0099,Yuki Saengdao,Female,29,D002,Marketing,Brand Manager,Full-time,Branch,2025-01-05,,43100
+E0100,Chaiwat Sato,Female,40,D008,Customer Service,Customer Service Supervisor,Full-time,Head Office,2025-09-03,,20600
+E0101,Linh Tran,Male,21,D001,Sales,Sales Supervisor,Full-time,Head Office,2025-11-05,,27400
+E0102,Malinee Suwannarat,Female,41,D001,Sales,Sales Representative,Full-time,Head Office,2023-03-11,,35000
+E0103,Malinee Nakornchai,Male,37,D006,Operations,Operations Manager,Full-time,Warehouse,2023-04-23,2025-05-14,19700
+E0104,Nattapong Nguyen,Female,40,D007,Warehouse,Warehouse Staff,Full-time,Head Office,2022-08-14,,29900
+E0105,Arisa Srisuk,Female,21,D006,Operations,Operations Manager,Full-time,Branch,2026-03-08,,33800
+E0106,Krit Pham,Male,21,D007,Warehouse,Warehouse Staff,Part-time,Warehouse,2025-09-11,,29800
+E0107,Malinee Tanaka,Female,40,D007,Warehouse,Warehouse Staff,Full-time,Head Office,2024-06-27,,23000
+E0108,An Suwannarat,Male,24,D003,Finance,Accountant,Full-time,Head Office,2025-05-08,,45600
+E0109,Thanakorn Sato,Male,30,D004,HR,Recruiter,Full-time,Head Office,2023-04-13,,45700
+E0110,Nattapong Srisuk,Male,48,D008,Customer Service,Customer Service Agent,Full-time,Branch,2025-11-07,,32700
+E0111,Somchai Boonmee,Male,31,D006,Operations,Operations Manager,Contract,Branch,2025-02-24,,25600
+E0112,Malinee Sato,Female,30,D006,Operations,Operations Manager,Full-time,Warehouse,2023-12-22,,29700
+E0113,Minh Nakornchai,Female,40,D001,Sales,Area Manager,Full-time,Branch,2023-07-25,2026-11-05,19800
+E0114,Nattapong Kraubut,Male,41,D001,Sales,Sales Representative,Contract,Branch,2023-07-14,,29800
+E0115,Benjaporn Wongsa,Female,28,D001,Sales,Sales Representative,Full-time,Branch,2024-12-22,,38600
+E0116,Sudarat Nguyen,Female,35,D008,Customer Service,Customer Service Agent,Full-time,Branch,2022-11-15,,26000
+E0117,Somchai Chaiyaphum,Female,32,D002,Marketing,Brand Manager,Full-time,Branch,2026-03-27,,41300
+E0118,Krit Kraubut,Female,41,D003,Finance,Accountant,Full-time,Branch,2025-05-12,,42300
+E0119,Wichian Suzuki,Female,41,D006,Operations,Operations Officer,Full-time,Warehouse,2024-05-31,,38200
+E0120,Patchara Boonmee,Male,52,D007,Warehouse,Inventory Controller,Full-time,Branch,2022-03-28,,27500
+E0121,Chaiwat Nguyen,Male,44,D001,Sales,Sales Supervisor,Full-time,Warehouse,2022-02-12,2025-04-19,48500
+E0122,Krit Suwannarat,Female,29,D006,Operations,Operations Supervisor,Full-time,Branch,2024-12-09,2026-10-11,35600
+E0123,Arisa Saengdao,Male,32,D008,Customer Service,Customer Service Agent,Full-time,Head Office,2023-12-17,,16700
+E0124,Hana Tanaka,Female,41,D007,Warehouse,Inventory Controller,Full-time,Branch,2025-09-04,,34800
+E0125,Kanya Wongsa,Male,36,D007,Warehouse,Inventory Controller,Full-time,Warehouse,2025-07-08,,27700
+E0126,Wanwisa Suzuki,Female,49,D002,Marketing,Marketing Executive,Full-time,Warehouse,2024-07-14,2026-09-01,43500
+E0127,Somchai Tran,Female,21,D005,IT,IT Manager,Full-time,Branch,2025-02-09,,56200
+E0128,Arisa Kittipong,Female,30,D001,Sales,Sales Representative,Full-time,Warehouse,2023-12-05,,32800
+E0129,Siriporn Intaraprasert,Male,28,D003,Finance,Finance Manager,Full-time,Branch,2023-08-03,,46500
+E0130,Nattapong Sato,Male,34,D006,Operations,Operations Manager,Contract,Head Office,2024-03-02,,45700
+E0131,Minh Saengdao,Male,43,D002,Marketing,Marketing Executive,Full-time,Head Office,2025-09-05,,47500
+E0132,Siriporn Pham,Female,29,D006,Operations,Operations Supervisor,Full-time,Head Office,2026-02-22,,26100
+E0133,Wanwisa Srisuk,Female,48,D001,Sales,Sales Representative,Full-time,Branch,2022-10-09,,39500
+E0134,Saran Tran,Female,31,D006,Operations,Operations Officer,Full-time,Branch,2025-06-19,,29600
+E0135,Taro Pham,Female,45,D001,Sales,Area Manager,Full-time,Head Office,2024-01-17,,31100
+E0136,Wanwisa Nguyen,Male,30,D008,Customer Service,Customer Service Supervisor,Full-time,Head Office,2023-02-02,,20700
+E0137,Linh Intaraprasert,Female,36,D008,Customer Service,Customer Service Supervisor,Contract,Branch,2023-02-13,2026-06-13,26500
+E0138,An Sato,Male,25,D002,Marketing,Content Specialist,Full-time,Warehouse,2022-11-25,,41100
+E0139,Minh Tanaka,Female,28,D008,Customer Service,Customer Service Supervisor,Part-time,Head Office,2024-04-29,2025-04-12,31600
+E0140,Arisa Kraubut,Female,31,D007,Warehouse,Warehouse Supervisor,Full-time,Branch,2022-10-09,,36400
+E0141,Chaiwat Boonmee,Male,35,D008,Customer Service,CRM Officer,Full-time,Branch,2022-02-08,,31400
+E0142,Anan Chaiyaphum,Male,27,D001,Sales,Sales Representative,Full-time,Warehouse,2023-05-04,,25200
+E0143,Wichian Kraubut,Male,42,D007,Warehouse,Warehouse Supervisor,Full-time,Branch,2023-08-20,2026-01-05,26000
+E0144,Yuki Intaraprasert,Female,21,D003,Finance,Finance Officer,Full-time,Head Office,2024-08-20,2025-09-04,22400
+E0145,Sudarat Pham,Male,39,D007,Warehouse,Inventory Controller,Full-time,Head Office,2026-02-14,,29900
+E0146,Somchai Tanaka,Female,30,D006,Operations,Operations Officer,Full-time,Head Office,2022-10-04,,15500
+E0147,Linh Srisuk,Male,44,D008,Customer Service,Customer Service Supervisor,Full-time,Branch,2024-11-21,,27400
+E0148,Saran Pham,Male,40,D007,Warehouse,Inventory Controller,Full-time,Warehouse,2023-11-11,,29800
+E0149,Narin Tanaka,Male,39,D007,Warehouse,Warehouse Staff,Full-time,Warehouse,2024-01-23,,17200
+E0150,Yuki Sato,Male,31,D001,Sales,Sales Supervisor,Full-time,Branch,2023-11-03,,42200
+E0151,Taro Kittipong,Male,25,D006,Operations,Operations Officer,Full-time,Branch,2024-06-09,,22400
+E0152,Arisa Saengdao,Male,37,D008,Customer Service,CRM Officer,Full-time,Head Office,2022-10-20,,28400
+E0153,Chaiwat Intaraprasert,Male,31,D006,Operations,Operations Officer,Full-time,Head Office,2024-01-30,,32900
+E0154,Arisa Boonmee,Male,21,D001,Sales,Sales Representative,Full-time,Head Office,2023-01-17,,31200
+E0155,Taro Tanaka,Female,46,D007,Warehouse,Inventory Controller,Full-time,Branch,2024-10-02,,33700
+E0156,Sakura Kittipong,Female,28,D006,Operations,Operations Supervisor,Full-time,Branch,2025-12-24,,30100
+E0157,Benjaporn Sato,Female,38,D007,Warehouse,Warehouse Staff,Full-time,Branch,2024-11-07,,28600
+E0158,Patchara Nguyen,Female,32,D005,IT,System Analyst,Full-time,Branch,2025-02-03,,46900
+E0159,Sakura Kittipong,Female,46,D007,Warehouse,Inventory Controller,Full-time,Branch,2022-06-01,2026-07-19,24500
+E0160,Mai Chaiyaphum,Male,21,D007,Warehouse,Warehouse Staff,Full-time,Head Office,2022-09-22,,25700
+E0161,Arisa Wongsa,Male,38,D003,Finance,Finance Manager,Contract,Head Office,2024-11-28,,36200
+E0162,Wichian Srisuk,Female,40,D006,Operations,Operations Manager,Full-time,Warehouse,2022-12-12,2025-01-30,40600
+E0163,Malinee Boonmee,Male,27,D008,Customer Service,Customer Service Supervisor,Full-time,Head Office,2025-03-27,,19400
+E0164,Patchara Pham,Male,35,D006,Operations,Operations Supervisor,Full-time,Head Office,2023-09-11,2026-03-27,44700
+E0165,Kenji Sato,Female,30,D005,IT,IT Manager,Part-time,Head Office,2023-11-28,,66100
+E0166,Narumon Nguyen,Male,35,D006,Operations,Operations Supervisor,Full-time,Head Office,2022-08-06,,35500
+E0167,Pimchanok Boonmee,Male,46,D002,Marketing,Marketing Executive,Full-time,Branch,2022-11-24,,32500
+E0168,Arisa Pham,Male,21,D006,Operations,Operations Officer,Full-time,Head Office,2022-07-04,,31300
+E0169,Benjaporn Suwannarat,Female,21,D002,Marketing,Brand Manager,Full-time,Branch,2022-01-17,2025-02-22,45200
+E0170,Krit Saengdao,Female,28,D003,Finance,Finance Manager,Full-time,Warehouse,2023-08-15,,48600
+E0171,Wanwisa Srisuk,Male,37,D008,Customer Service,Customer Service Supervisor,Full-time,Head Office,2024-03-17,,22600
+E0172,Arisa Tanaka,Male,38,D001,Sales,Sales Representative,Full-time,Branch,2022-10-08,,24700
+E0173,Minh Kraubut,Male,27,D001,Sales,Area Manager,Full-time,Branch,2025-06-16,,28200
+E0174,Thanakorn Chaiyaphum,Female,45,D003,Finance,Finance Manager,Contract,Branch,2025-10-11,,40400
+E0175,Chaiwat Srisuk,Male,40,D007,Warehouse,Warehouse Supervisor,Full-time,Head Office,2025-04-10,,33000
+E0176,Kenji Pham,Female,38,D006,Operations,Operations Supervisor,Full-time,Branch,2025-12-05,,39000
+E0177,Siriporn Kittipong,Female,32,D008,Customer Service,CRM Officer,Full-time,Branch,2026-02-15,,20800
+E0178,Pimchanok Suwannarat,Male,23,D005,IT,IT Manager,Full-time,Warehouse,2024-12-27,,45200
+E0179,Pimchanok Tanaka,Male,38,D008,Customer Service,Customer Service Supervisor,Full-time,Branch,2023-07-26,,44300
+E0180,Kenji Saengdao,Male,32,D005,IT,IT Manager,Full-time,Warehouse,2025-02-21,,63900
